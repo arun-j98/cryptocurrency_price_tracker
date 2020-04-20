@@ -13,4 +13,4 @@ Concepts Used:-<br />
 4. State Management using "provider" package.<br />
 
 ## Screenshot
-![](crypto.jpg)
+![](crypto.JPG)
